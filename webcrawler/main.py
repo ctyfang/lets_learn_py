@@ -1,3 +1,6 @@
+# Purpose: Access a webpage, return webpages at each depth using hyperlinks
+# Side-Effects: Print each webpage and associated depth
+
 import urllib.request # Library for url fetching
 import lxml.html # Library for html parsing
 
